@@ -5,7 +5,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 
 import { GlobalFrame } from "@/components/layout/global-frame";
 import { PageTransition } from "@/components/motion/page-transition";
-import { GrainOverlay } from "@/components/visual/grain-overlay";
+import { GrainOverlay } from "@/components/ui/GrainOverlay";
 
 export const metadata: Metadata = {
   title: "Darling MarTech v2 Playground",

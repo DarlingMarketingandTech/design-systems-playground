@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
 
 import { type Proof } from "@/data/mock";
-import { CountUp } from "@/components/ui/count-up";
+import { CountUp } from "@/components/ui/CountUp";
 
 export function DataCard({ item }: { item: Proof }) {
   return (

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 960 960" fill="none">
+  <defs>
+    <linearGradient id="faceA" x1="270" y1="276" x2="686" y2="688" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E4E4E7" stop-opacity="0.35" />
+      <stop offset="1" stop-color="#E4E4E7" stop-opacity="0.08" />
+    </linearGradient>
+    <linearGradient id="faceB" x1="478" y1="156" x2="830" y2="356" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0.26" />
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0.06" />
+    </linearGradient>
+    <linearGradient id="faceC" x1="688" y1="276" x2="688" y2="686" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E4E4E7" stop-opacity="0.32" />
+      <stop offset="1" stop-color="#E4E4E7" stop-opacity="0.06" />
+    </linearGradient>
+  </defs>
+  <path d="M272 276L478 156L688 276L480 398L272 276Z" fill="url(#faceB)" stroke="#E4E4E7" stroke-opacity="0.44" />
+  <path d="M272 276V684L480 804V398L272 276Z" fill="url(#faceA)" stroke="#E4E4E7" stroke-opacity="0.36" />
+  <path d="M688 276V684L480 804V398L688 276Z" fill="url(#faceC)" stroke="#E4E4E7" stroke-opacity="0.3" />
+</svg>
